@@ -48,13 +48,6 @@ Your project may include files such as:
 *(File names may vary — adjust as needed.)*
 
 ---
-
-## ▶️ How to Run
-
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
 ## Author
 
 Jaydeep Ahir
